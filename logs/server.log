@@ -1,0 +1,10 @@
+[INFO] 2024-12-24 18:29:25 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO] 2024-12-24 18:29:25 IPConfigData: Using automatic network configuration.
+[INFO] 2024-12-24 18:29:25 IPConfigData: Adding new subnet: 192.168.1.0/24 address: 192.168.1.105
+[INFO] 2024-12-24 18:29:25 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO] 2024-12-24 18:29:25 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 122.121.147.177
+[INFO] 2024-12-24 18:29:27 InstanceManager: Multiverse Instance created.
+[INFO] 2024-12-24 18:29:27 InstanceManager: Universe Instance created.
+[WARN] 2024-12-24 18:29:27 IXmlReader: InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[INFO] 2024-12-24 18:29:27 InstanceManager: Loaded 0 instance names.
+[INFO] 2024-12-24 18:29:28 QuestManager: Replaced quest Test quest (1) with a new version.
