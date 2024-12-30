@@ -47,7 +47,6 @@ public class FunctionEventListener extends AbstractEventListener {
 	public <R extends AbstractEventReturn> R executeEvent(BaseEvent event, Class<R> returnBackClass) {
 		try {
 			return returnBackClass.cast(_callback.apply(event));
-			
 		} catch (Exception e) {
 			LOG.warn("Error while invoking {} on {}", event, getOwner(), e);
 		}

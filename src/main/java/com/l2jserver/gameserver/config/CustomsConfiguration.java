@@ -260,8 +260,8 @@ public interface CustomsConfiguration extends Reloadable {
 	@Key("MultiLangAllowed")
 	Set<String> getMultiLangAllowed();
 	
-	@Key("MultiLangVoiceCommand")
-	boolean multiLangVoiceCommand();
+	@Key("MultiLangHandler")
+	boolean multiLangHandler();
 	
 	@Key("MultiLangSystemMessageEnable")
 	boolean multiLangSystemMessageEnable();
@@ -278,8 +278,8 @@ public interface CustomsConfiguration extends Reloadable {
 	@Key("L2WalkerProtection")
 	boolean l2WalkerProtection();
 	
-	@Key("DebugVoiceCommand")
-	boolean debugVoiceCommand();
+	@Key("DebugHandler")
+	boolean debugHandler();
 	
 	@Key("DualboxCheckMaxPlayersPerIP")
 	int getDualboxCheckMaxPlayersPerIP();
@@ -296,4 +296,16 @@ public interface CustomsConfiguration extends Reloadable {
 	
 	@Key("AllowChangePassword")
 	boolean allowChangePassword();
+	
+	@Key("AllowXpHandler")
+	boolean allowXpHandler();
+	
+	@Key("AllowCastleHandler")
+	boolean allowCastleHandler();
+	
+	@Key("AllowClanHandler")
+	boolean allowClanHandler();
+	
+	@Key("AllowStatHandler")
+	boolean allowStatHandler();
 }
