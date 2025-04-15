@@ -17,7 +17,7 @@ L2J Server 是一款完全以 Java 編寫的開源伺服器模擬器，適用於
 Links
 ---
 
-- [ l2jstar 天星網論壇 ](http://chenstar.clouds.tw/index.php?i=1)
+- [ 卓越天堂2 ](https://l2j-excellent.666forum.com/)
 
 <!-- [Web Site](http://www.l2jserver.com/)
 
