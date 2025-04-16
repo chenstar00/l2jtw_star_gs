@@ -17,7 +17,7 @@ L2J Server 是一款完全以 Java 編寫的開源伺服器模擬器，適用於
 Links
 ---
 
-- [ 卓越天堂2 ](https://l2j-excellent.666forum.com/)
+- [新卓越天堂 2 - SF - 嗨翻天 ](https://l2j-excellent.666forum.com/)
 
 <!-- [Web Site](http://www.l2jserver.com/)
 
